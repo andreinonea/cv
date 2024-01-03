@@ -12,7 +12,7 @@
 = Work experience
 #cv.jobrole(
 	company: [Harman International Romania SRL],
-	role: [Software Engineer],
+	role: [Embedded Linux Software Engineer],
 	period: [2022 - present],
 	location: [Bucharest],
 )[
@@ -20,7 +20,7 @@
 	Integrated and configured a custom Linux kernel for embedded devices using Yocto, along with other open-source and proprietary packages.
 
 	Spearheaded an initiative to improve the quality of the deliverables and relentlessly provided support and feedback to ensure a healthy and challenging working environment.
-	The following areas are targeted: active code reviews and code verification, standardization of output format and logging across same family of proprietary applications, proposal of a template directory structure to ease navigation and understanding and to facilitate the aggregation under the same namespace of the otherwise split functions of the main library and traceability in decision-making, tests results and final artifacts.
+	The following areas are targeted: source code and workflow optimization, code reviews and verification, standardization of output format and logging across same family of proprietary applications, proposal of a template directory structure to ease navigation and understanding and to facilitate the aggregation under the same namespace of the otherwise split functions of the main library, and traceability in decision-making, tests results and final artifacts.
 ]
 
 #cv.jobrole(
@@ -39,7 +39,7 @@
 	title: [MEng Computer Engineering],
 	university: [Polytechnic University of Bucharest],
 	location: [Romania],
-	period: [2022 - 2024],
+	period: [2022 - present],
 	faculty: [Faculity of Computers and Automated Control],
 )[
 	Thesis: Decision-Capable Characters: A Study on Emergent NPC Behavior
@@ -47,8 +47,10 @@
 	Ongoing effort to efficiently represent the knowledge of non-playable characters in virtual worlds, as to enable emergent behavior and story-telling.
 
 	Plans include the creation of a complex affect system to describe various psychological, physiological and biological states of a character and a simple graph-based system to model the relationships between them and events happening in the world.
-	The characters should be able to understand the semantics of a particular event type, whose contained data acts as stimuli to their individual affect system.
-	The result aims to enable decision-capable characters for greater replayability and entertainment.
+	Characters should be able to understand the semantics of a particular event type, whose contained data acts as stimuli to their individual affect system.
+	Goal is to enable decision-capable characters for greater replayability and entertainment.
+
+	Simulation runs on a custom engine developed in parallel, made with Rust and OpenGL (Vulkan expected as well).
 ]
 
 #cv.degree(
@@ -110,7 +112,7 @@
 		),
 		(
 			topic: [Education],
-			description: [Mentoring, teaching computer graphics in an intuitive way],
+			description: [Mentoring, teaching mathematics and computer graphics in an intuitive way],
 		),
 		(
 			topic: [Hobbies],
@@ -120,7 +122,7 @@
 			topic: [Learning],
 			description: [
 				Greek (A1 as of 01.09.2023) with high priority, \
-				Korean, Persian, Spanish and German sporadically
+				Korean, Arabic, Persian, Spanish and German sporadically
 			],
 		),
 		(
